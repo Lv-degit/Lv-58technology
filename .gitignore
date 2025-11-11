@@ -1,5 +1,26 @@
 # Prerequisites
 *.d
+*.md
+*.pdf
+*.png
+*.jpg
+*.rst
+*.html
+*.log
+*.cfg
+*.gif
+*.css
+*.chm
+*.txt
+*.json
+*.cmake
+*.in
+*.pyd
+*.js
+*.mo
+*.1
+*.sepcs
+*.7
 
 # Object files
 *.o
