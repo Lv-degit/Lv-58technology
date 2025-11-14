@@ -21,6 +21,7 @@
 *.1
 *.sepcs
 *.7
+*.pdf
 
 # Object files
 *.o
